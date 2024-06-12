@@ -41,7 +41,10 @@ This project demonstrates a machine learning application for predictive maintena
 ## Sample Data
 
 A sample CSV file (`machine_data.csv`) is provided in the `data` directory to get you started.
+This Sample can also be downloaded via the UI.
 
 ## License
 
 This project is licensed under the MIT License.
+
+
